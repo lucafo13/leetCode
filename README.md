@@ -11,4 +11,8 @@ desafios leetcode fodas
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lucafo13/leetCode/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [1205-defanging-an-ip-address](https://github.com/lucafo13/leetCode/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
