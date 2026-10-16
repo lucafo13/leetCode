@@ -1,28 +1,9 @@
+using System.Linq;
+using System.Collections.Generic;
 public class Solution {
     public IList<string> FizzBuzz(int n) {
-        List<string> sol = new List<string>();
-        for(int i = 1; i <= n; i++)
-        {
-            bool d3 = (i % 3 == 0);
-            bool d5 = (i % 5 == 0);
-
-            if(!d3 && d5)
-            {
-                sol.Add("Buzz");
-            }
-            if(d3 && !d5)
-            {
-                sol.Add("Fizz");
-            }
-            if(d3 && d5)
-            {
-                sol.Add("FizzBuzz");
-            }
-            if(!d3 && !d5)
-            {
-                sol.Add($"{i}");
-            }
-        }
-        return sol;
+ 
+       
+        return Enumerable.Range(1, n).Select(i => i % 15 == 0 ? "FizzBuzz" : i % 3 == 0 ? "Fizz" : i % 5 == 0 ? "Buzz" : i.ToString()).ToArray();
     }
 }
