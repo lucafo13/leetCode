@@ -14,5 +14,14 @@ desafios leetcode fodas
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/lucafo13/leetCode/tree/master/0412-fizz-buzz) |
 | [1205-defanging-an-ip-address](https://github.com/lucafo13/leetCode/tree/master/1205-defanging-an-ip-address) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/lucafo13/leetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/lucafo13/leetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
