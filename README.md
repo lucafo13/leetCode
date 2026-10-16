@@ -19,9 +19,18 @@ desafios leetcode fodas
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lucafo13/leetCode/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/lucafo13/leetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/lucafo13/leetCode/tree/master/0412-fizz-buzz) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/lucafo13/leetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/lucafo13/leetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
